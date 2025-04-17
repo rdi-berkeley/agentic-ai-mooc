@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "CS294/194-196 Agentic AI"
+title: "CS294/194-196: Agentic AI"
 permalink: /f25
 redirect_from:
  - /
