@@ -8,9 +8,9 @@ redirect_from:
 
 ### Prospective Students
 
-- ***Students interested in the course should first try enrolling in the course in CalCentral. The class number for CS194-196 is 15131. The class number for CS294-196 is 32761. Please join the waitlist if the class is full.***
-- ***We plan to expand the class size to allow more students to join. Please fill in the <a href="https://forms.gle/MSLYVZJmaDaaE2B48">petition form</a> if you are on the waitlist or can't get added to the waitlist. You will receive an email notification around the beginning of the spring semester if you are allowed in.***
-- ***<span style="color:red">Please contact [EMAIL HERE] if you have any questions.***
+- _**Students interested in the course should first try enrolling in the course in CalCentral. The class number for CS194-196 is 15131. The class number for CS294-196 is 32761. Please join the waitlist if the class is full.**_
+- _**We plan to expand the class size to allow more students to join. Please fill in the <a href="https://forms.gle/MSLYVZJmaDaaE2B48">petition form</a> if you are on the waitlist or can't get added to the waitlist. We expect to have accepted students enrolled 1-2 weeks into the Fall semester.**_
+- _**<span style="color:red">Please contact cs294.agenticai@gmail.com if you have any questions. Please also join our Ed discussion forum (link will be added here in the Fall) to keep up with enrollment updates and announcements.**_
 
 ## Course Staff
 
