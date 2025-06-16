@@ -18,14 +18,18 @@ redirect_from:
 <tbody>
 <tr>
 <td>Instructor</td>
+<td>(Guest) Co-instructor</td>
 </tr>
 <tr>
 <td><img src="assets/dawn-berkeley.jpg" height=200/></td>
+<td><img src="assets/XinyunChen.jpg" height=200/></td>
 </tr>
 <tr>
 <td><a href="https://people.eecs.berkeley.edu/~dawnsong/">Dawn Song</a></td>
+<td>Xinyun Chen</td>
 <tr>
 <td>Professor, UC Berkeley</td>
+<td>Research Scientist, Google DeepMind</td>
 </tr>
 </tr>
 </tbody>
