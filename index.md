@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "CS294/194-196: Agentic AI"
+title: "Agentic AI"
 permalink: /f25
 redirect_from:
  - /
@@ -8,9 +8,7 @@ redirect_from:
 
 ## Prospective Students
 
-- **Students interested in the course should first try enrolling in the course in CalCentral. Please join the waitlist if the class is full. The class number is 15131 for CS194-196 and 32761 for CS294-196.**
-- **We plan to expand the class size to allow more students to join. Please fill in the <a href="https://forms.gle/MSLYVZJmaDaaE2B48">petition form</a> if you are on the waitlist or can't get added to the waitlist. We expect to have accepted students enrolled 1-2 weeks into the Fall semester.**
-- **<span style="color:red">Please contact cs294.agenticai@gmail.com if you have any questions.</span> Please also join our Ed discussion forum (link will be added here in the Fall) to keep up with enrollment updates and announcements.**
+- **<span style="color:red">Please contact cs294.agenticai@gmail.com if you have any questions.</span>**
 
 ## Course Staff
 
@@ -37,7 +35,7 @@ redirect_from:
 
 ## Class Time and Location
 
-Lecture: 3-5pm PT Monday at Valley Life Sciences 2050 
+Lecture: 3-5pm PT Monday 
 
 ## Course Description
 
@@ -46,11 +44,3 @@ Agentic AI is the new frontier and poised to transform the future of our daily l
 ## Syllabus
 
 Te be released soon!
-
-## Enrollment and Grading
-
-***Prerequisites:*** **Students are strongly encouraged to have had experience and basic understanding of Machine Learning and Deep Learning before taking this class, e.g., have taken courses such as CS182, CS188, and CS189.**
-
-***Please fill out the <a href="https://forms.gle/MSLYVZJmaDaaE2B48">petition form</a> if you are on the waitlist or can't get added to the waitlist.***
-
-This is a variable-unit course. Detailed grading breakdown will be released soon!
