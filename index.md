@@ -8,7 +8,7 @@ redirect_from:
 
 ## Prospective Students
 
-- Sign up for the course: <a href="https://forms.gle/gKFNDMiUBaKddUh36">Registration Form</a>
+- Sign up for the course: <a href="https://forms.gle/gKFNDMiUBaKddUh36">Signup Form</a>
 <!-- - Join our <a href="">Agentic AI Discord</a> to stay updated on future MOOCs. -->
 - This course is built upon the fundamentals from the [Fall 2024 LLM Agents MOOC](https://llmagents-learning.org/f24) and [Spring 2025 Advanced LLM Agents MOOC](https://llmagents-learning.org/sp25).
 
