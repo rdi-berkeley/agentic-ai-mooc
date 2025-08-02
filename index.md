@@ -8,7 +8,9 @@ redirect_from:
 
 ## Prospective Students
 
-- **<span style="color:red">Please contact cs294.agenticai@gmail.com if you have any questions.</span>**
+- Sign up for the course: <a href="https://forms.gle/gKFNDMiUBaKddUh36">Registration Form</a>
+<!-- - Join our <a href="">Agentic AI Discord</a> to stay updated on future MOOCs. -->
+- This course is built upon the fundamentals from the [Fall 2024 LLM Agents MOOC](https://llmagents-learning.org/f24) and [Spring 2025 Advanced LLM Agents MOOC](https://llmagents-learning.org/sp25).
 
 ## Course Staff
 
@@ -35,7 +37,7 @@ redirect_from:
 
 ## Class Time and Location
 
-Lecture: 3-5pm PT Monday 
+Lecture: 3-5pm PT Monday (starts Sep 6, 2025)
 
 ## Course Description
 
