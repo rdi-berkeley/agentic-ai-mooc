@@ -45,4 +45,4 @@ Agentic AI is the new frontier and poised to transform the future of our daily l
 
 ## Syllabus
 
-Te be released soon!
+To be announced soon!
