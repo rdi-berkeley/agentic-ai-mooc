@@ -5,24 +5,33 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }}</title>
     <meta name="description" content="{{ page.description  | default: "MOOC, Fall 2025" }}">
-    
+
+    <!-- Canonical -->
+    <link rel="canonical" href="https://agenticai-learning.org/f25">
+
     <!-- Twitter Card data -->
     <meta name="twitter:card" content="summary_large_image">
     <meta property="twitter:domain" content="agenticai-learning.org">
-    <meta property="twitter:url" content="https://agenticai-learning.org">
+    <meta property="twitter:url" content="https://agenticai-learning.org/f25">
     <meta name="twitter:title" content="Agentic AI MOOC">
     <meta name="twitter:description" content="MOOC, Fall 2025">
-    <!-- <meta name="twitter:image" content="https://rdi.berkeley.edu/llm-agents-mooc/assets/llmagents-twittercard.png"> -->
+    <meta name="twitter:image" content="https://raw.githubusercontent.com/rdi-berkeley/agentic-ai-mooc/main/assets/flyer.jpg?v=5">
+    <meta name="twitter:image:alt" content="Agentic AI MOOC instructors & guest lecturers collage">
 
-    <!-- Add any additional metadata here -->
+    <!-- Open Graph (for LinkedIn/Slack/Facebook etc.) -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://agenticai-learning.org/f25">
     <meta property="og:title" content="Agentic AI MOOC">
     <meta property="og:description" content="MOOC, Fall 2025">
-    <!-- <meta property="og:image" content="https://rdi.berkeley.edu/llm-agents-mooc/assets/llmagents-twittercard.png"> -->
+    <meta property="og:image" content="https://raw.githubusercontent.com/rdi-berkeley/agentic-ai-mooc/main/assets/flyer.jpg?v=5">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="628">
+    <meta property="og:image:alt" content="Agentic AI MOOC instructors & guest lecturers collage">
 
     <!-- CSS and JS files, if any -->
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
-  
+
     {% include head.html %}
 
   <body>
